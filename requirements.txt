@@ -1,4 +1,6 @@
+streamlit==1.31.0
 numpy
-pickle
-streamlit
+pandas
+opencv-python
 scikit-learn
+matplotlib
